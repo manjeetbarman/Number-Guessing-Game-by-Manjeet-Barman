@@ -1,4 +1,6 @@
 # Number-Guessing-Game-by-Manjeet-Barman
 
-#Under Development 
+#Under Development.....
+
+completing soon....
 
