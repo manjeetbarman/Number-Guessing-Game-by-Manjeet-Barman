@@ -3,11 +3,12 @@ html {
   }
   
   body {
-    width: 300px;
+    background-image: url('https://mcdn.wallpapersafari.com/medium/20/84/It6uUS.jpg');
+    width: 500px;
     max-width: 750px;
     min-width: 480px;
     margin: 0 auto;
-    background-color: #212121;
+    background-color: #6000fc;
   }
   
   .lastResult {
@@ -16,32 +17,32 @@ html {
   }
   
   .guesses {
-    color: white;
+    color: rgb(255, 0, 0);
     padding: 7px;
   }
   
   button {
-    background-color: #141414;
-    color: #fff;
+    background-color: #0a0000;
+    color: #ffffff;
     width: 250px;
     height: 50px;
     border-radius: 25px;
     font-size: 30px;
     border-style: none;
     margin-top: 30px;
-    /* margin-left: 50px; */
+    
   }
   
   #subt {
-    background-color: #161616;
-    color: #ffffff;
+    background-color: #000000;
+    color: #00ff1e;
     width: 200px;
     height: 50px;
     border-radius: 10px;
     font-size: 20px;
     border-style: none;
     margin-top: 50px;
-    /* margin-left: 75px; */
+    
   }
   
   #guessField {
@@ -52,14 +53,13 @@ html {
     border-style: none;
     margin-top: 25px;
   
-    /* margin-left: 50px; */
-    border: 5px solid #6c6d6d;
+    
+    border: 5px solid #ff9100;
     text-align: center;
   }
   
   #guess {
     font-size: 55px;
-    /* margin-left: 90px; */
     margin-top: 120px;
     color: #fff;
   }
@@ -71,15 +71,15 @@ html {
   #wrapper {
     box-sizing: border-box;
     text-align: center;
-    width: 450px;
-    height: 550px;
-    background-color: #474747;
+    width: 500px;
+    height: 720px;
+    background-color: #000241;
     color: #fff;
     font-size: 25px;
   }
   
   h1 {
-    background-color: #161616;
+    background-color: #74006c;
   
     color: #fff;
     text-align: center;
