@@ -24,7 +24,7 @@ Get ready for a fun and challenging number-guessing game 🎲 built with JavaScr
 
 2. **Open the project in your web browser:** 🌐
    - Navigate to the project directory using your terminal.
-   - Open `numberguess.html` in your preferred browser (e.g., Chrome, Firefox).
+   - Open `numberguese.html` in your preferred browser (e.g., Chrome, Firefox).
 
 3. **Follow the on-screen instructions to start guessing!** 🎉
 
