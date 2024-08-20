@@ -42,7 +42,6 @@ function validateGuess(guess){
     }
 }
 
-
 function checkGuess(guess){
     if(guess === randomNumber){
         displayMessage('you answer is right');
