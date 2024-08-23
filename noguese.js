@@ -21,7 +21,6 @@ if(playGame){
         validateGuess(guess);
     })
 }
-
 function validateGuess(guess){
     if(isNaN(guess)){
         alert('Please enter a valid no');
@@ -52,7 +51,6 @@ function checkGuess(guess){
         displayMessage('Your number is too high');
     }
 }
-
 function displayGuess(guess){
     userInput.value = '';
     guessSlot.innerHTML += `${guess} , `;
